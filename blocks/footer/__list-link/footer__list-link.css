@@ -1,0 +1,10 @@
+.footer__list-link {
+    text-decoration: none;
+    color: white;
+    opacity: 1;
+    transition: opacity 0.1s linear;
+  }
+  
+  .footer__list-link:hover {
+    opacity: 0.5;
+  }

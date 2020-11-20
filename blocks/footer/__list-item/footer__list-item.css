@@ -1,0 +1,9 @@
+.footer__list-item {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+  }
+
+  .footer__list-item:last-of-type {
+    margin-bottom: 16px;
+  }
